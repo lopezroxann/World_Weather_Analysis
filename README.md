@@ -6,6 +6,6 @@ We are assisting users on the PlanMyTrip search and plan their trip based on the
 
 ![alt text](https://github.com/lopezroxann/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
-PlanMyTrip can also assit users in planning their route if they are looking to visit more than one city. In the image below, we show the driving route between four different cities in Mexico:
+PlanMyTrip can also assist users in planning their route if they are looking to visit more than one city. In the image below, we show the driving route between four different cities in Mexico:
 
 ![alt text](https://github.com/lopezroxann/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
